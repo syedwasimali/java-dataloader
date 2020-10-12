@@ -20,7 +20,7 @@ publishing {
 }
 
 ext {
-    junitVersion = '4.12'
+    junitVersion = '4.13.1'
 }
 
 apply plugin: 'java'
